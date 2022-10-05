@@ -11,8 +11,10 @@
 - ⚡ Fun fact: A chef's hat has 100 pleats 😄.
 
 ### Stats :chart:
-
 <img src="https://github-readme-stats.vercel.app/api?username=zwinalabs&show_icons=true"/>
+
+### Most used languages :fireworks:
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
 
 <!--
 **zwinalabs/zwinalabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
