@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👂 My name is Kais Chrif.
 - 😄 Pronouns: Qais AlSharif.
-- 🔭 I’m currently working at Gobiz Tn.
+- 🔭 I’m currently working as freelancer Worldwide.
 - 🌱 I’m currently learning blockchain applications, MetaMask, Node, React and PMP.
 - 👯 I’m looking to collaborate on making Millions with Your Ideas.
 - 🤔 I’m looking for help with Bluetooth beacons marketing.
@@ -9,10 +9,6 @@
 - 📫 How to reach me: @zwinalabs & https://www.linkedin.com/in/kais-chrif/
 - ❤️ Love doesn't make the world go round. Love is what makes the ride worthwhile.
 - ⚡ Fun fact: A chef's hat has 100 pleats.
-
-### Social ✨
-
--:briefcase: ![](<https://www.linkedin.com/in/kais-chrif/>)
 
 ### Stats :chart:
 
