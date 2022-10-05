@@ -14,7 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=zwinalabs&show_icons=true"/>
 
 ### Most used languages :fireworks:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zwinalabs&layout=compact"/>
+![Kais's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwinalabs&show_icons=true&theme=radical)
 
 <!--
 **zwinalabs/zwinalabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
