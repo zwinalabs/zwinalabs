@@ -11,7 +11,8 @@
 - ⚡ Fun fact: A chef's hat has 100 pleats 😄.
 
 ### Stats :chart:
-<img src="https://github-readme-stats.vercel.app/api?username=zwinalabs&show_icons=true"/>
+![](https://raw.githubusercontent.com/zwinalabs/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/zwinalabs/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 
 <!--
