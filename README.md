@@ -5,8 +5,10 @@
 - 🌱 I’m currently learning blockchain applications, MetaMask, Node, React and PMP.
 - 👯 I’m looking to collaborate on making Millions with Your Ideas.
 - 🤔 I’m looking for help with Bluetooth beacons marketing.
-- 💬 Ask me about Web, Laravel, Symfony, RoR, Javascript, jQuery, Vue.js, SQL, Docker, Linux, Scrum and eTransformation.
-- 📫 How to reach me: @zwinalabs & https://www.linkedin.com/in/kais-chrif/
+- 💬 Ask me about Web, Laravel, Codeigniter, Symfony, RoR, Javascript, jQuery, Vue.js, SQL, Docker, Linux, Scrum and eTransformation.
+- 📫 How to reach me:
+  - Linkedin: https://www.linkedin.com/in/kais-chrif
+  - Upwork: https://www.upwork.com/freelancers/~015d953648573a9d94
 - ❤️ Love doesn't make the world go round. Love is what makes the ride worthwhile.
 - ⚡ Fun fact: A chef's hat has 100 pleats 😄.
 
